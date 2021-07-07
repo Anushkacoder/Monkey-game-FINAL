@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border-width: 4.5ch;
+  border-style: groove;
+  border-top-color: blueviolet;
+  border-bottom-color: blueviolet;
+  border-left-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+}
